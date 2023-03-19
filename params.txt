@@ -1,0 +1,2 @@
+a green cute dog,  a dog  driving a car
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1416169927, Size: 512x512, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly
